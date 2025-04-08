@@ -102,5 +102,13 @@
     "father_name": "Ramesh Jain",
     "aadhaar_number": "1013-2013-3013",
     "address": "Mumbai"
+  },
+  "UID0014" : {
+    "voter_id" : "VOT1234514",
+    "name" : "Hariom Dhakad",
+    "gender" : "Male",
+    "father_name": "Mohan Lal Dhakad",
+    "aadhaar_number": "1013-2013-3023",
+    "address": "Mumbai"
   }
 }
