@@ -1,1 +1,1 @@
-from .database_storage import *
+from database.database_storage import *
